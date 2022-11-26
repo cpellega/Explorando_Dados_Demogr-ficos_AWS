@@ -1,3 +1,3 @@
 select city, population
 from "population"."population"
-where city='Foz do Iguaçu';
+where city='Porto Alegre';
