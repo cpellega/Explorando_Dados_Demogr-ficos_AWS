@@ -15,7 +15,11 @@ Visualizar dados no Amazon QuickSight.
 Arquivo de entrada: brazil_population_2019.csv
 
 Sql's executados:
-query _sum_all_population.sql
-query_select_population_by_city.sql
-query_select_ten_records.sql
-query_sum_by_region.sql
+
+  query _sum_all_population.sql
+
+  query_select_population_by_city.sql
+
+  query_select_ten_records.sql
+
+  query_sum_by_region.sql
